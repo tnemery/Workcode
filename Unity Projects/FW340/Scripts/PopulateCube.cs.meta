@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d53ac20e3e6071244b69599841c4c151
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myCube: {fileID: 100000, guid: a0057edbefbc2ff48b07800a92753585, type: 2}
+  - spheres: {fileID: 100000, guid: ea5d6528ce9ff194a867db2baa773cf8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

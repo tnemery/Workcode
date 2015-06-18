@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 7fee3ec003ebe6646bb041c6965155db
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - yellow1Texture: {fileID: 2800000, guid: 0fb925ecaf9f8184ca8e035edaa8bec6, type: 3}
+  - redTexture: {fileID: 2800000, guid: 008be18f2de9dc146bba9a6c84c24635, type: 3}
+  - yellow2Texture: {fileID: 2800000, guid: 3de8e0928546b834c820ff23cb79116d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
